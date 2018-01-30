@@ -89,7 +89,7 @@ Take a look at these three sketches, make sure you understand what's going on, a
 
     **Challenge**: Instead of drawing ellipses, use the [beginShape](https://p5js.org/reference/#/p5/beginShape) function to draw a shape that's appropriate to your choice of color. Start by running the example on the `beginShape` reference page to understand how the function works and pairs with `vertex` and `endShape`.
     
-#### Writing New Code
+#### 4: Writing New Code
 
 An exercise for developing facility with writing code to achieve a particular visual end.
 
@@ -99,9 +99,9 @@ An exercise for developing facility with writing code to achieve a particular vi
 
     Piet Mondrian was one of the pioneers of 20th century abstract art; his style is [very recognizable](https://www.google.com/search?q=mondrian&client=safari&rls=en&tbm=isch&tbas=0&source=lnt&sa=X&ved=0ahUKEwjonc6SufTYAhWN0YMKHYtoCJsQpwUIIA&biw=1362&bih=940&dpr=2#imgrc=_). Let's copy him!
     
-    **Assignment**: Write code that makes an image in the style of Mondrian by drawing lines and colored rectangles.
+    **Assignment 4a**: Write code that makes an image in the style of Mondrian by drawing lines and colored rectangles.
     
-    **Assignment**: Do something *different*. Pick a particular feature of Mondrian's work, and modify it in your sketch. Offer your own take on Mondrian!
+    **Assignment 4b**: Do something *different*. Pick a particular feature of Mondrian's work, and modify it in your sketch. Offer your own take on Mondrian!
     
     **Super-bonus Challenge**: Write code that draws a **random** image in the style of Mondrian. That is, write a Mondrian-painting program that creates a new image in the style of Mondrian every time it's run.
 
