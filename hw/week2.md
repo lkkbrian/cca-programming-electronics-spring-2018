@@ -1,10 +1,10 @@
-### Homework 2 (first part due Sunday, January 28, 2018)
+### Homework 2 (first part due Friday, February 2, 2018)
 
 This homework has two parts; first, explore p5.js by modifying some code and writing some new code from scratch. Second, share your solutions with someone else from class and ask them to to provide feedback on your work!
 
 As a refresher, [**read through the building blocks we covered in class**](../building-blocks-code.md) and make sure it all makes sense. If you have any questions about anything, email [me](mailto:cantor@cca.edu) or [Yisel](mailto:yrosariochang@cca.edu)!
 
-Like last week, publish your programs on the web, using GitHub to publish your work by [following this tutorial](http://github.com/zamfi/github-guide). Always make a new repository for each week's homework, call this one `hw2`. Then add or upload your solution to *each assignment in its own file*, named `assignment-1.js`, `assignment-2.js`, *etc.*   Submit your repository link to me [using this form](https://docs.google.com/forms/d/e/1FAIpQLSdsmP-O5zUX7yqt2SPWE9AiUPgcG28jPrEjmigq1fqCVSBxpQ/viewform)
+To submit your homework: publish your programs on the web, using GitHub.  Always make a new repository for each week's homework, call this one `hw2` ([follow this tutorial if you're stuck](http://github.com/zamfi/github-guide)).  Add or upload your solution *for each assignment as its own file*, named `assignment-1.js`, `assignment-2.js`, *etc.*   Submit the repository link to me [using this form](https://docs.google.com/forms/d/e/1FAIpQLSdsmP-O5zUX7yqt2SPWE9AiUPgcG28jPrEjmigq1fqCVSBxpQ/viewform).
 
 #### Tutorials about p5.js
 
@@ -106,7 +106,7 @@ An exercise for developing facility with writing code to achieve a particular vi
     **Super-bonus Challenge**: Write code that draws a **random** image in the style of Mondrian. That is, write a Mondrian-painting program that creates a new image in the style of Mondrian every time it's run.
 
 
-#### Sharing & Caring (due Wednesday before class)
+#### Sharing & Caring (due Monday February 5 before class)
 
 You'll receive a link from me or Lei for someone else's homework.
 
