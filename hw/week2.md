@@ -35,7 +35,7 @@ Take a look at these three sketches, make sure you understand what's going on, a
     line(random(width), random(height), random(width), random(height));
     ```
 
-    The code above draws 10 lines, starting at a random point, and ending at a random point. But it's kind of repetitive. **Assignment**: Make a 10-step loop instead, with one instance of `line(random(width), random(height), random(width), random(height));` inside it.
+    The code above draws 10 lines, starting at a random point, and ending at a random point. But it's kind of repetitive. **Assignment 1**: Make a 10-step loop instead, with one instance of `line(random(width), random(height), random(width), random(height));` inside it.
     
     You may find this reminder of loop syntax helpful:
 
@@ -61,13 +61,15 @@ Take a look at these three sketches, make sure you understand what's going on, a
     
     This code neither uses a loop nor repeats the `line` function many times -- yet it still draws many lines. Reflect on that for a moment.
     
-    **Assignment**:
+    **Assignment 2a**:
     
-    a.  Modify the code so that the start point of every line is the center of the canvas.
+    Modify the code so that the start point of every line is the center of the canvas.
     
-    b.  Modify the code so that the end point of every line is in the top-right quadrant of the canvas.
+    **Assignment 2b**:
     
-    c.  **Challenge**: Modify the code so that the [stroke color](https://p5js.org/reference/#/p5/stroke) of each line depends on its start point's `x` coordinate, or (for extra challenge!) its length. Variables may be helpful!
+    Modify the code so that the end point of every line is in the top-right quadrant of the canvas.
+    
+    c.  **Assignment 2 Challenge**: Modify the code so that the [stroke color](https://p5js.org/reference/#/p5/stroke) of each line depends on its start point's `x` coordinate, or (for extra challenge!) its length. Variables may be helpful!
 
 3.  **Fading circles**. Start with this code that draws pastel-colored circles to the screen:
 
@@ -83,11 +85,11 @@ Take a look at these three sketches, make sure you understand what's going on, a
     }
     ```
     
-    **Assignment**: Modify this code to limit the color to a particular range; perhaps you enjoy the warm orange/red colors of Autumn? Or the bright greens of Spring? Or the blue-tinged twinkles of sun-dappled snow in Winter? You may find it helpful to read about [HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html) and learn about [`colorMode`](https://p5js.org/reference/#/p5/colorMode). 
+    **Assignment 3**: Modify this code to limit the color to a particular range; perhaps you enjoy the warm orange/red colors of Autumn? Or the bright greens of Spring? Or the blue-tinged twinkles of sun-dappled snow in Winter? You may find it helpful to read about [HSB](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html) and learn about [`colorMode`](https://p5js.org/reference/#/p5/colorMode). 
     
     Note, in particular, that the maximum values for hue, saturation, and brightness in HSB mode are 360, 100, and 100, respectively.
 
-    **Challenge**: Instead of drawing ellipses, use the [beginShape](https://p5js.org/reference/#/p5/beginShape) function to draw a shape that's appropriate to your choice of color. Start by running the example on the `beginShape` reference page to understand how the function works and pairs with `vertex` and `endShape`.
+    **Assignment 3 Challenge**: Instead of drawing ellipses, use the [beginShape](https://p5js.org/reference/#/p5/beginShape) function to draw a shape that's appropriate to your choice of color. Start by running the example on the `beginShape` reference page to understand how the function works and pairs with `vertex` and `endShape`.
     
 #### 4: Writing New Code
 
@@ -103,7 +105,7 @@ An exercise for developing facility with writing code to achieve a particular vi
     
     **Assignment 4b**: Do something *different*. Pick a particular feature of Mondrian's work, and modify it in your sketch. Offer your own take on Mondrian!
     
-    **Super-bonus Challenge**: Write code that draws a **random** image in the style of Mondrian. That is, write a Mondrian-painting program that creates a new image in the style of Mondrian every time it's run.
+    **Assignment 4 Super-bonus Challenge**: Write code that draws a **random** image in the style of Mondrian. That is, write a Mondrian-painting program that creates a new image in the style of Mondrian every time it's run.
 
 
 #### Sharing & Caring (due Monday February 5 before class)
