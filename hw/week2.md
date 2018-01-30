@@ -2,9 +2,9 @@
 
 This homework has two parts; first, explore p5.js by modifying some code and writing some new code from scratch. Second, share your solutions with someone else from class and ask them to to provide feedback on your work!
 
-As a refresher, [**read through the building blocks we covered in class**](../building-blocks-code.md) and make sure it all makes sense. If you have any questions about anything, email [J.D.](mailto:jzamfirescupereira@cca.edu) or [Lei](mailto:lxiang@cca.edu)!
+As a refresher, [**read through the building blocks we covered in class**](../building-blocks-code.md) and make sure it all makes sense. If you have any questions about anything, email [me](mailto:cantor@cca.edu) or [Yisel](mailto:yrosariochang@cca.edu)!
 
-Like last week, publish your programs on the web, and [send me](mailto:jzamfirescupereira@cca.edu) a link. For this class, use GitHub to publish your work by [following this tutorial](http://github.com/zamfi/github-guide); make a new repository for each week's homework, and call this first one `hw2`. Then add or upload your solution to *each puzzle in its own file*, named `puzzle-1.js`, `puzzle-2.js`, *etc.*
+Like last week, publish your programs on the web, using GitHub to publish your work by [following this tutorial](http://github.com/zamfi/github-guide). Always make a new repository for each week's homework, call this one `hw2`. Then add or upload your solution to *each assignment in its own file*, named `assignment-1.js`, `assignment-2.js`, *etc.*   Submit your repository link to me [using this form](https://docs.google.com/forms/d/e/1FAIpQLSdsmP-O5zUX7yqt2SPWE9AiUPgcG28jPrEjmigq1fqCVSBxpQ/viewform)
 
 #### Tutorials about p5.js
 
