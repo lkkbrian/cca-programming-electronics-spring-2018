@@ -1,8 +1,8 @@
-### Homework 1 (first part due Saturday, January 27. 2018)
+### Homework 1 (first part due Friday, January 26, 2018)
 
 This homework has two parts; first, complete the exercises we began in class today. Second, share your solutions with someone else from class and ask them to "sign off" that your programs solve the puzzles!
 
-#### Red Dot Puzzles (due Saturday)
+#### Red Dot Puzzles (due Friday)
 
 - First, [**read through the building blocks we covered**](../building-blocks-programs.md) and make sure it all makes sense. If you have any questions about anything, email [Chris](mailto:cantor@cca.edu) or [Yisel](mailto:yrosariochang@cca.edu)!
 
