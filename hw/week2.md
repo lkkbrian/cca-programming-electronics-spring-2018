@@ -69,7 +69,7 @@ Take a look at these three sketches, make sure you understand what's going on, a
     
     Modify the code so that the end point of every line is in the top-right quadrant of the canvas.
     
-    c.  **Assignment 2 Challenge**: Modify the code so that the [stroke color](https://p5js.org/reference/#/p5/stroke) of each line depends on its start point's `x` coordinate, or (for extra challenge!) its length. Variables may be helpful!
+    **Assignment 2 Challenge**: Modify the code so that the [stroke color](https://p5js.org/reference/#/p5/stroke) of each line depends on its start point's `x` coordinate, or (for extra challenge!) its length. Variables may be helpful!
 
 3.  **Fading circles**. Start with this code that draws pastel-colored circles to the screen:
 
