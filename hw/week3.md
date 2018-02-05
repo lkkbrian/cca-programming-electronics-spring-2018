@@ -152,7 +152,7 @@ This homework has two parts; first, complete the p5.js loops practice and explor
     
 #### Sharing & Caring (due Monday before class)
 
-You'll receive a link from me or Lei for someone else's homework.
+You'll receive a link from Yisel for someone else's homework.
 
 - When you receive a link to evaluate, look at each program and try running it. Does it work as you expect? Is it easy to understand the code?
 
