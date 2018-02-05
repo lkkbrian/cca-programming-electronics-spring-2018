@@ -83,7 +83,7 @@ Workshop:
 
 [Homework for Week 2](hw/week2.md)
 
-### Week 3: Monday, Februry 5, 2018
+### Week 3: Monday, February 5, 2018
 
 In-class:
 - Homework Review.
