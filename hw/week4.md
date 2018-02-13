@@ -1,6 +1,8 @@
-### Homework 4 (due Friday, February 16, 2018)
+### Homework 4 (due Monday, February 18, 2018)
 
-This homework has three parts; first, extend the oscillator keyboard we looked at in class. Second, share your solutions with someone else from class and ask them to to provide feedback on your work. Third, watch two tutorials by Daniel Shiffman about objects and arrays.
+This homework has two parts.
+* Extend the oscillator keyboard we looked at in class. 
+* Watch two tutorials by Daniel Shiffman about objects and arrays and answer some questions.
 
 Save all your homework exercises in a `hw4` repository in your [GitHub account](http://github.com/zamfi/github-guide), using the filenames given below before each assignment.
 
@@ -123,7 +125,7 @@ function keyReleased() {
    
    One option for this assignment is to extend the above approach to all four keys. But you are welcome to give visual feedback in other ways too!
 
--  **Assignment**: `mouse-input.js` Incorporate mouse input into your sketch in some way. You could use it to control pitch, for example, by changing the frequency of one or more of the oscillators.
+-  **Assignment**: `mouse-input.js` Add mouse input, incorporate mouse input into your sketch in some way. You could use it to control pitch, for example, by changing the frequency of one or more of the oscillators.
 
 -  **Optional Challenge**: `metronome.js` Use the `millis` or `seconds` function to create a visual metronome to help you keep time while playing your instrument.
 
@@ -139,10 +141,10 @@ Next, draw on your own creative talents. Feel free to go as crazy as you like an
 -  The [history of musical instruments](https://en.wikipedia.org/wiki/Musical_instrument#History) is long and not particularly informative.
 -  If you're comfortable doing so, consider using [`loadJSON`](https://p5js.org/reference/#/p5/loadJSON) to get data from the internet as a potential input to your instrument; here's a (quite complex) example: [Hello p5 Weather](https://p5js.org/examples/hello-p5-weather.html)
 
--  **Assginment**: `musical-instrument.js` Do something new, interesting, and different. In a comment at the top of this sketch articulate what is new, interesting, or different about your work.
+-  **Assignment**: `musical-instrument.js` Do something new, interesting, and different. In a comment at the top of this sketch articulate what is new, interesting, or different about your work.
 
 
-#### Tutorials (due before class on Wednesday)
+#### Tutorials 
 
 Watch the following tutorial videos by Daniel Shiffman.
 - 2.3: [JavaScript Objects](https://www.youtube.com/watch?v=-e5h4IGKZRY&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=8)
@@ -150,7 +152,9 @@ Watch the following tutorial videos by Daniel Shiffman.
 - 7.2: [Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=24)
 
 
-You should be able to answer the following questions:
+**Assignment**:  Make a file in your github repository called `questions.js` 
+
+Answer the following questions and record your answers in that file.
 
 1. What is an object?
 2. How do you access a property of an object?
