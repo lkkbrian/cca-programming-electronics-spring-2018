@@ -1,4 +1,4 @@
-### Homework 4 (due Monday, February 18, 2018)
+### Homework 4 (due Midnight Sunday, February 17, 2018)
 
 This homework has two parts.
 * Extend the oscillator keyboard we looked at in class. 
@@ -152,7 +152,7 @@ Watch the following tutorial videos by Daniel Shiffman.
 - 7.2: [Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=24)
 
 
-**Assignment**:  Make a file in your github repository called `questions.js` 
+**Assignment**:  Make a file in your github repository called `questions.text` 
 
 Answer the following questions and record your answers in that file.
 
