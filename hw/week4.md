@@ -152,7 +152,7 @@ Watch the following tutorial videos by Daniel Shiffman.
 - 7.2: [Arrays and Loops](https://www.youtube.com/watch?v=RXWO3mFuW-I&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=24)
 
 
-**Assignment**:  Make a file in your github repository called `questions.text` 
+**Assignment**:  Make a file in your github repository called `questions.txt` 
 
 Answer the following questions and record your answers in that file.
 
