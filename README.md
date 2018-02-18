@@ -359,7 +359,7 @@ Now, consider this sketch: http://alpha.editor.p5js.org/jd/sketches/S1n5FmOLz
 
 
 
-### Week 5: Wednesday, February 14, 2018
+### Week 5: Monday, February 19, 2018
 
 Today's topic is data modeling & simulations. These are super powerful concepts! Turns out a lot of what you actually do with a computer involves some data that models something, and which you “simulate”.
 
