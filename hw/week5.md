@@ -169,4 +169,4 @@ function draw() {
 
 #### Visual musical instrument (due in class Monday)
 
-Finalize your visual musical instrument, and be ready for your in-class critique next week.
+**Finalize your visual musical instrument**, and see if you can incorporate arrays or objects into it, because this will make it easier to add still more new features.   Your instrument should be something that works and does something interactive, creative, cool, and unique.  Each person will present their instrument for an in-class critique on Monday.   
