@@ -171,4 +171,4 @@ function draw() {
 
 **Finalize your visual musical instrument**, and see if you can incorporate arrays or objects into it, because this will make it easier to add still more new features.   Your instrument should be something that works and does something interactive, creative, cool, and unique.  Each person will present their instrument for an in-class critique on Monday.   
 
-These files may help: [circles-arrays.js](../class_code/circles-arrays.js) and [circles-objects.js](../class_code/circles-objects.js)
+These two files show what we worked on in class on February 19th; they demonstrate how you can start doing a lot of fancy cool stuff by using arrays or arrays of objects. [circles-arrays.js](../class_code/circles-arrays.js) and [circles-objects.js](../class_code/circles-objects.js).  
