@@ -26,19 +26,11 @@ function draw() {
     x[index] = x[index] + xSpeed[index];
     y[index] = y[index] + ySpeed[index];
 
-    if (x[index] > width - 5) {
+    if (x[index] > width || x[index] < 0 ) {
       xSpeed[index] = -xSpeed[index];
     }
 
-    if (y[index] > height - 5) {
-      ySpeed[index] = -ySpeed[index];
-    }
-
-    if (x[index] < 5) {
-      xSpeed[index] = -xSpeed[index];
-    }
-
-    if (y[index] < 5) {
+    if (y[index] > height || y[index] < 0) {
       ySpeed[index] = -ySpeed[index];
     }
   }
