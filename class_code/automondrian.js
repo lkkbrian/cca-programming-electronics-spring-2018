@@ -2,13 +2,13 @@
 probslimits = [.4, .6, .9];
 
 colors = [];
-linethickss = 2;
+linethickss = 6;
 minarea = 200;
 
 function setup() {
 	createCanvas(400, 400);
 	colorMode(RGB, 1, 1, 1);
-	colors[0] = color(1, 1, 1);
+	colors[0] = color(0, 0, 0);
 	colors[1] = color(1, 1, 1);
 	colors[2] = color(1, 0, 0);
 	colors[3] = color(0, 0, 1);
@@ -41,7 +41,10 @@ function mondrian(x, y, w, h, ft) {
 	} else {
 		var r = random(0, 1);
 		var rectarea = w * h;
-		if (rectarea < minarea || r > probslimits[2]) { // color
+		if (rectarea < minarea ||
+				w < linethickss*10 ||
+				h < linethickss*10 ||
+				r > probslimits[2]) { // color
 			fill(random(colors));
 			rect(x, y, w, h);
 		} else if (r < probslimits[0]) { // 2 splits 
